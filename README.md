@@ -275,6 +275,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://pipedream.com/s.v0/app_Noh9dw/logo/orig" height="14"/> [Slite](https://github.com/fajarmf/slite-mcp) - Model Context Protocol server for Slite integration. Search and retrieve notes, browse note hierarchies, and access content from your Slite workspace.
 - <img src="https://cdn.simpleicons.org/todoist/E44332" height="14"/> [Todoist](https://github.com/abhiz123/todoist-mcp-server) - An MCP server implementation for Todoist, enabling natural language task management.
 - <img src="https://cdn.simpleicons.org/googlekeep/FFBB00" height="14"/> [Google Keep](https://github.com/feuerdev/keep-mcp) - Read, create, update and delete Google Keep notes.
+- <img src="https://solomd.app/favicon.svg" height="14"/> [SoloMD](https://github.com/zhitongblog/solomd) - MCP server for any folder of Markdown notes. 13 tools — read / search / wikilink backlinks / per-note AutoGit history (autogit_log/diff/rollback) / tags / public share URLs. Multi-vault federation. Ships bundled with the [SoloMD desktop editor](https://solomd.app) (free, MIT) which adds an agent panel with accept/reject UI for pending writes.
 
 <br />
 
